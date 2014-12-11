@@ -3,7 +3,7 @@ PATH
   specs:
     cardboard (1.0.4)
       boxen (~> 2.1)
-      puppet-lint (~> 0.3)
+      puppet-lint (~> 1.1)
       puppetlabs_spec_helper (~> 0.4)
       rspec-puppet (~> 0.1)
 
@@ -42,7 +42,7 @@ GEM
       facter (~> 1.6)
       hiera (~> 1.0)
       rgen (~> 0.6.5)
-    puppet-lint (0.3.2)
+    puppet-lint (1.1.0)
     puppetlabs_spec_helper (0.4.1)
       mocha (>= 0.10.5)
       rake
